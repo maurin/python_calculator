@@ -6,7 +6,9 @@ def add_num(a,b):
     print_num(a, '+', b, c)
 
 def sub_num(a,b):
-    pass
+    c =  a-b
+    print_num(a, '-', b, c)
+    
 
 def multiply_num(a,b):
     pass
